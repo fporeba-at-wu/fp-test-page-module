@@ -1,5 +1,5 @@
 ---
-name: "Florian Poreba"
+name: "Florian Poreba (as Submodule)"
 prefix:
 suffix: MSc
 position: Research Assistant
