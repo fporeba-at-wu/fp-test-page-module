@@ -14,7 +14,7 @@ unit: Faculty
 This is my Page!  
 
 You can embedd html into markdown (see below):
-<div style="background:white">
+<div style="background:pink">
 Hello
 <ul>
 <li>Hello 1</li>
